@@ -1,9 +1,7 @@
 package service;
 
 import dao.FlightDAO;
-import dao.FlightDaoImpl;
 import entity.Flight;
-
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
